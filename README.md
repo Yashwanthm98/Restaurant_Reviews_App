@@ -1,4 +1,4 @@
-# Mobile Web Specialist Certification Course
+# Restaurant-Reviews-App
 ---
 ## Project Overview:
 
